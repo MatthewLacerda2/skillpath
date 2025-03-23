@@ -10,8 +10,6 @@ export default function Chess() {
                 </p>
             </header>            
             
-            the book is on the table
-            
             <iframe
                 width="720"
                 height="405"
