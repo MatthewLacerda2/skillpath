@@ -5,6 +5,14 @@ export default function Chess() {
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
             <CourseHeader title="Skillpath to Bible" subtitle="Study the sacred scriptures" />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>Dont read it like a book</li>
+                <li>The most important is the gospel of Jesus</li>
+                <li>It was written by men, but is inspired by God</li>
+                <li>Some of it are life advices</li>
+                <li>There is a godly plan throughout history</li>
+            </ul>
             
             <iframe
                 width="720"

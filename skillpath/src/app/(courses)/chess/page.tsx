@@ -5,6 +5,12 @@ export default function Chess() {
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
             <CourseHeader title="Skillpath to Chess" subtitle="The art of decision making" />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>Focus on your mistakes</li>
+                <li>Dont focus on openings</li>
+                <li>Know the opening by the book, but git gud at the endgame</li>
+            </ul>
             
             <iframe
                 width="720"

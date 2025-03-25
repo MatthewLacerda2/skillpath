@@ -35,7 +35,6 @@ export default function Home() {
           <Recommendation link="/language" title="Language" subtitle="How to learn a language well?" />
           <Recommendation link="/movies" title="Movies" subtitle="Know all the movies, directors, and stories" />
           <Recommendation link="/music" title="Music" subtitle="Know all the singers, bands, and references" />
-          <Recommendation link="/programming" title="Programming" subtitle="Learn coding from scratch" />
           <Recommendation link="/physics" title="Physics" subtitle="It's quite unforgiving" />
         </div>
       </section>

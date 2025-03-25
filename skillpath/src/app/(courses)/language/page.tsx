@@ -9,10 +9,17 @@ export default function Chess() {
             <iframe
                 width="720"
                 height="405"
-                src="https://www.youtube.com/embed/videoseries?si=wQf2djrE_0v3APTC&amp;list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx"
-                title="Mikhail Tal"
+                src="https://www.youtube.com/watch?v=OaZzu_gQ8bk"
+                title="Learn a language"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>Duolingo helps, doesnt solve</li>
+                <li>Decorate top 100 most useful words</li>
+                <li>Reading is good, you can take your time</li>
+                <li>Read aloud and repeat the word if you got the accent wrong until you get it right</li>
+            </ul>
             
         </div>
     );

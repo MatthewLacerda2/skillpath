@@ -5,6 +5,12 @@ export default function Chess() {
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
             <CourseHeader title="Skillpath to Anime" subtitle="Know the rules of anime and the main shows" />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>You gotta watch it in japanese</li>
+                <li>Most anime are shonen (battle)</li>
+                <li>Get familiar with important anime studios and creators</li>
+            </ul>
             
             <iframe
                 width="720"

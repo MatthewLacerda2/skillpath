@@ -5,6 +5,18 @@ export default function Chess() {
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
             <CourseHeader title="Skillpath to Game Development" subtitle="Create your own video games" />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>You gotta be a one-man army</li>
+                <li>Know how to code</li>
+                <li>Basic 3d modeling</li>
+                <li>Basic animation</li>
+                <li>MAKE THE DAMN GAME SMALL AND SIMPLE OR YOU WONT FINISH</li>
+                <li>Aim for a 1 month endeavour</li>
+                <li>As for sounds, you can just pick whatever</li>
+                <li>You gotta experiment a lot with game design</li>
+                <li>Then you can level design</li>                
+            </ul>
             
             <iframe
                 width="720"
@@ -13,6 +25,8 @@ export default function Chess() {
                 title="Mikhail Tal"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             />
+
+            <p>*Put videos of brackeys and codemonkey*</p>
             
         </div>
     );

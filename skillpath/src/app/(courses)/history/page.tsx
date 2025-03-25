@@ -9,10 +9,12 @@ export default function Chess() {
             <iframe
                 width="720"
                 height="405"
-                src="https://www.youtube.com/embed/videoseries?si=wQf2djrE_0v3APTC&amp;list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx"
-                title="Mikhail Tal"
+                src="https://www.youtube.com/watch?v=dHSQAEam2yc"
+                title="Oversimplified"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             />
+
+            <p>*Put videos of Oversimplified*</p>
             
         </div>
     );

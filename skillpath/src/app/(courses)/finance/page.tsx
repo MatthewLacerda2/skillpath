@@ -5,6 +5,14 @@ export default function Chess() {
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
             <CourseHeader title="Skillpath to Finance" subtitle="Money, money, money" />
+
+            <ul className="list-disc pl-6 mb-4">
+                <li>Know forms of investments</li>
+                <li>50-30-20 rule</li>
+                <li>Spend what you need, save what you can</li>
+                <li>By saving, i meant investing. DO NOT let your money sit around doing nothing</li>
+                <li>Investing in yourself is a financial investment. You will make more money in the future</li>
+            </ul>
             
             <iframe
                 width="720"
