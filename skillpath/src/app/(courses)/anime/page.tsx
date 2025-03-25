@@ -4,7 +4,7 @@ export default function Chess() {
     return(
         <div className="min-h-screen bg-gray-100 px-28 pt-14">
 
-            <CourseHeader title="Skillpath to Chess" subtitle="The art of decision making" />
+            <CourseHeader title="Skillpath to Anime" subtitle="Know the rules of anime and the main shows" />
             
             <iframe
                 width="720"

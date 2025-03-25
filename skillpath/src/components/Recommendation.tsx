@@ -9,6 +9,8 @@ interface RecommendationProps {
 export function Recommendation({ link, title, subtitle }: RecommendationProps) {
     const courseKey = link.replace(/^\//, '').split('/')[0];
     const baseUrl = thumbnails[courseKey as keyof typeof thumbnails];
+
+    {/*That query parameter is for pexels.com. Youtube is not affected by it, so we don't "fix" it*/}
     const thumbnailUrl = `${baseUrl}?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`;
     
     return (
